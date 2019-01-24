@@ -2,6 +2,4 @@
 
 Criando um site maneiro
 
-_edit new branch_
-
-mudando para local
+atualização para a master feito no github apos mesclagem
